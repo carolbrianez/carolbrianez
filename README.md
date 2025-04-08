@@ -26,5 +26,5 @@
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](#) *(https://www.linkedin.com/in/carolbrianez/')*
-- 
+  
 Let's chat about programming, fitness, and travel! 😃🚀
