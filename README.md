@@ -2,15 +2,15 @@
 
 ## About Me <3
 
-- 🎓 I'm a physiotherapist working in a **pediatric oncology ICU**.
+- 🎓 I am a **specialist in hospital physiotherapy**.
 - 📚 Currently studying **System Analysis and Development** at **Instituto Federal de São Paulo - Barretos**.
 - 🚀 Transitioning into the **programming** field.
-- 💡 Learning **C** and developing programming logic.
+- 💡 Learning **C, C#, Python** and developing programming logic.
 - 🌍 Fluent in Portuguese, English and Spanish.
 
 ## 💻 Technologies & Tools
 
-- 🔹 C (learning!)
+- 🔹 C, C# and Python (learning!)
 - 🔹 Git & GitHub
 - 🔹 VS Code
 - 🔹 SQL (basic)
@@ -22,6 +22,7 @@
 - 🧘 Pilates
 - 🏃 Running
 - 🚴 Cycling
+- 🌍 Traveling
 
 ## 📫 Connect with Me
 
