@@ -70,6 +70,6 @@ Production website for an indie/AA game development studio built on Unreal Engin
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=carolbrianez&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats-drab-ten-29.vercel.app/api?username=carolbrianez&show_icons=true&theme=tokyonight&hide_border=true)" />
-  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=carolbrianez&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-drab-ten-29.vercel.app/api/top-langs/?username=carolbrianez&layout=compact&theme=tokyonight&hide_border=true)" />
+  <img height="165" src="https://github-readme-stats-drab-ten-29.vercel.app/api?username=carolbrianez&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-drab-ten-29.vercel.app/api/top-langs/?username=carolbrianez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
